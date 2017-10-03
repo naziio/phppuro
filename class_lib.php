@@ -17,7 +17,7 @@ class person {
         return $this->name;
     }
     private function get_pinn(){
-return $this->pinn_number;
+return $this->pinn_number; 
 }
 
 
